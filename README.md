@@ -2,7 +2,7 @@
 - 👀 I’m interested in emerging areas of machine learning and new technologies to implement them
 - 🌱 I’m currently learning the ways to improve quality of knowledge embedding models for processing linked data
 - 💞️ I’m looking to collaborate on various projects concerning machine learning models engineering as well as creation of inventive tools for software development in general
-- 📫 You can reach me through [telegram](t.me/zeionara) or [email](mailto:zeionara@gmail.com)
+- 📫 You can reach me through [telegram](https://t.me/zeionara) or [email](mailto:zeionara@gmail.com)
 
 <!---
 zeionara/zeionara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
